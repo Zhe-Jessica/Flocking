@@ -1,0 +1,9 @@
+﻿  618distribution.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h(90,1): warning C4005:  'INFINITY': macro redefinition
+C:\Program Files\Webots\include\controller\c\webots\types.h(62): message :  see previous definition of 'INFINITY'
+  Generating code
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  618distribution.vcxproj -> C:\Users\duric\Desktop\projects\619_setposition\controllers\618distribution\618distribution.exe

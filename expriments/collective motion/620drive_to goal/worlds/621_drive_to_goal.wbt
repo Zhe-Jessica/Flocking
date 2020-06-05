@@ -1,0 +1,70 @@
+#VRML_SIM R2019a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.3247349954925428 0.7703222402456915 0.5487721101562261 2.275072066323107
+  position 0.3243346012047966 1.9856796615105914 -0.04463874211871482
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 5 5
+}
+YoubotFlag {
+  translation -0.5 0 0.5
+}
+E-puck {
+  name "1"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.1 0 0.1
+  name "2"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.2 0 0.2
+  name "3"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.30000000000000004 0 0.30000000000000004
+  name "4"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.4 0 0.4
+  name "5"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.5 0 0.5
+  name "6"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.6 0 0.6
+  name "7"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.7 0 0.7
+  name "8"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.7999999999999999 0 0.7999999999999999
+  name "9"
+  controller "621goal_collective_combine"
+  supervisor TRUE
+}

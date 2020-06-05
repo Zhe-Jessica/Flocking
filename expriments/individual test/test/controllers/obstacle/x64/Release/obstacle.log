@@ -1,0 +1,9 @@
+﻿  obstacle.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h(90,1): warning C4005:  'INFINITY': macro redefinition
+D:\software\academy\Webots\Webots\include\controller\c\webots\types.h(62): message :  see previous definition of 'INFINITY'
+D:\Course19\Dissertation\projects\test\controllers\obstacle\obstacle.c(32,9): warning C4101:  'ps_values': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  obstacle.vcxproj -> D:\Course19\Dissertation\projects\test\controllers\obstacle\obstacle.exe

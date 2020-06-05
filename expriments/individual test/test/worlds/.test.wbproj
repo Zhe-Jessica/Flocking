@@ -1,0 +1,17 @@
+Webots Project File version R2019a
+perspectives: 000000ff00000000fd000000030000000000000320000003b6fc0100000002fb0000001a0044006f00630075006d0065006e0074006100740069006f006e0000000000ffffffff0000006900fffffffb0000001e00480074006d006c0052006f0062006f007400570069006e0064006f00770000000000000003200000006900ffffff000000010000007f00000305fc0200000001fb0000001400540065007800740045006400690074006f0072010000001a000003050000008700ffffff0000000300000780000000affc0100000001fb0000000e0043006f006e0073006f006c00650100000000000007800000006900ffffff000006ff0000030500000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff00000001000000020000016e000005500100000002010000000100
+sceneTreePerspectives: 000000ff0000000100000002000000c0000000fc0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+projectionMode: PERSPECTIVE
+renderingMode: PLAIN
+selectionDisabled: 0
+viewpointLocked: 0
+orthographicViewHeight: 1
+textFiles: 4 "controllers/621_drive_to_goal/621_drive_to_goal.c" "controllers/my_controller/my_controller.c" "controllers/620_combine/620_combine.c" "../../../../software/academy/Webots/Webots/projects/robots/gctronic/e-puck/protos/E-puck.proto" "C:/Users/Durichess/AppData/Local/Temp/webots-11596/E-puck.NAxjhr.proto"
+globalOptionalRendering: DistanceSensorRays::LightSensorRays
+renderingDevicePerspectives: e-puck(1):camera;0;1;0;0
+renderingDevicePerspectives: e-puck(4):camera;0;1;0;0
+renderingDevicePerspectives: e-puck(3):camera;0;1;0;0
+renderingDevicePerspectives: e-puck(2):camera;0;1;0;0

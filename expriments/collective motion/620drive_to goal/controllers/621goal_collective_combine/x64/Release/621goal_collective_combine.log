@@ -1,0 +1,8 @@
+﻿  621goal_collective_combine.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h(90,1): warning C4005:  'INFINITY': macro redefinition
+D:\software\academy\Webots\Webots\include\controller\c\webots\types.h(62): message :  see previous definition of 'INFINITY'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  621goal_collective_combine.vcxproj -> D:\Course19\Dissertation\projects\620drive_to goal\controllers\621goal_collective_combine\621goal_collective_combine.exe

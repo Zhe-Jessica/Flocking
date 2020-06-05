@@ -1,0 +1,9 @@
+﻿  obstacle_robot.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\corecrt_math.h(90,1): warning C4005:  'INFINITY': macro redefinition
+D:\software\academy\Webots\Webots\include\controller\c\webots\types.h(62): message :  see previous definition of 'INFINITY'
+  Generating code
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  obstacle_robot.vcxproj -> D:\Course19\Dissertation\projects\test\controllers\obstacle_robot\obstacle_robot.exe

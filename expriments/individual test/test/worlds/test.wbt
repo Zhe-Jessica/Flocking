@@ -1,0 +1,41 @@
+#VRML_SIM R2019a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.153100555651542 -0.7996687436473107 -0.5805946264759266 3.5677435099893167
+  position 0.1628658471163769 1.3672272401680077 -0.8773884352719848
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 5 5
+}
+E-puck {
+  name "e-puck(1)"
+  controller "detector"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.1 0 0
+  name "e-puck(2)"
+  controller "obstacle_robot"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.2 0 0
+  name "e-puck(3)"
+  controller "obstacle_robot"
+  supervisor TRUE
+}
+E-puck {
+  translation 0.30000000000000004 0 0
+  name "e-puck(4)"
+  controller "obstacle_robot"
+  supervisor TRUE
+}
+WoodenBox {
+  translation 0.706794144832012 0.1 0.5831002509897901
+  size 0.2 0.2 0.2
+}
